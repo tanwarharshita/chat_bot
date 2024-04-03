@@ -1,5 +1,8 @@
 # CHAT BOT FOR UNI OF EXETER
 Chatbot using Retrieval Augmented Generation with Astra DB and the OpenAI Chat Model.
+
+![codespace](./images/UniofExeterLogo.png)
+
 # Build your own RAG Chatbot
 1) It leverages DataStax RAGStack, which is a curated stack of the best open-source software for easing implementation of the RAG pattern in production-ready applications that use Astra Vector DB or Apache Cassandra as a vector store.
 2) Uses OpenAI's Large Language Models for Q&A style chatbots
@@ -28,3 +31,4 @@ Which you can save to requirements.txt if you want:
 ```
 pip3 freeze > requirements.txt
 ```
+![codespace](./images/streamlit.png)
