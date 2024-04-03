@@ -31,4 +31,7 @@ Which you can save to requirements.txt if you want:
 ```
 pip3 freeze > requirements.txt
 ```
+
+Here is a preview of the implemented chatbot on streamlit:
+
 ![codespace](./images/streamlit.png)
