@@ -35,3 +35,5 @@ pip3 freeze > requirements.txt
 Here is a preview of the implemented chatbot on streamlit:
 
 ![codespace](./images/streamlit.png)
+
+Please note that this has not been deployed yet.
