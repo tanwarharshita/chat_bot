@@ -32,12 +32,9 @@ Which you can save to requirements.txt if you want:
 pip3 freeze > requirements.txt
 ```
 
-Here is a preview of the implemented chatbot on streamlit:
-
-![codespace](./images/streamlit.png)
-
+# Preview of the implemented chatbot on streamlit.
 Please note that this has not been deployed yet but looks like below:-
 
-![codespace](./images/'question from doc.png')
+![codespace](./images/question%20from%20doc.png)
 
-![codespace](./images/'question not from doc.png')
+![codespace](./images/question%20not%20from%20doc.png)
