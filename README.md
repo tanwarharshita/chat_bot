@@ -1,4 +1,4 @@
-# CHAT BOT FOR UNI OF EXETER
+# CHAT BOT FOR HOGWARTS
 Chatbot using Retrieval Augmented Generation with Astra DB and the OpenAI Chat Model.
 
 ![codespace](./images/Hogwarts.png)
@@ -38,6 +38,6 @@ Here is a preview of the implemented chatbot on streamlit:
 
 Please note that this has not been deployed yet but looks like below:-
 
-![codespace](./images/Intro.png)
+![codespace](./images/'question from doc.png')
 
-![codespace](./images/Intro.png)
+![codespace](./images/'question not from doc.png')
