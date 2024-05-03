@@ -1,7 +1,5 @@
-# CHAT BOT FOR HOGWARTS
+# CHAT BOT FOR UNIVERSITY WEBSITE
 Chatbot using Retrieval Augmented Generation with Astra DB and the OpenAI Chat Model.
-
-![codespace](./images/Hogwarts.png)
 
 # Build your own RAG Chatbot
 1) It leverages DataStax RAGStack, which is a curated stack of the best open-source software for easing implementation of the RAG pattern in production-ready applications that use Astra Vector DB or Apache Cassandra as a vector store.
