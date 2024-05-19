@@ -7,6 +7,7 @@ Chatbot using Retrieval Augmented Generation with Astra DB and the OpenAI Chat M
 3) Uses Streamlit to easily deploy the awesome app to the internet for everyone to see!
 4) Combines with the Astra DB Vector Store for additional context related to the University
 5) Designed for the use of the undergraduate student to ask questions provided by a word document. It contains information about the university, its locations, contact informations, term dates, various courses offered for 2024-25 applicants.
+6) Orchestrated LangChain integration, enabling linkage between OpenAI's LLM (ChatGPT-3) and Astra DB, streamlining semantic search processes on a serverless framework.
 # Python environments
 In case you want to run all of the above locally, it's useful to create a *Virtual Environment*. Use the below to set it up:
 ```
